@@ -1,0 +1,21 @@
+{
+  "name": "mraaaooo/text-translation-api-v3-php",
+  "description": "standard microsoft lib for Text-Translation-API-V3-PHP just added composer installation",
+  "type": "library",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "Copyright (c) Microsoft Corporation. All rights reserved",
+      "email": "microsoft@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "MsTextTranslation\\": "src/"
+    }
+  }
+}
